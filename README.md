@@ -5,7 +5,7 @@ These are my notes from the [The Rust Programming Language](https://doc.rust-lan
 ## Table of Contents
 
 - [01. Getting Started](./01-getting-started/)
-- [02. Programming a Guessing Game]()
+- [02. Programming a Guessing Game](./02-programming-a-guessing-game/)
 - [03. Common Programming Concepts]()
 - [04. Understanding Ownership]()
 - [05. Using Structs to Structure Related Data]()
